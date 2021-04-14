@@ -9,4 +9,4 @@ A set of notebooks inspired by the book [Python Data Science Handbook](https://j
 
 Additional notebooks:
 * a simple performance test of **numpy vs pandas**
-* a simple analysis of the **titanic dataset** with pandas
+* a simple analysis of the [titanic dataset](https://www.kaggle.com/c/titanic/data) with pandas
