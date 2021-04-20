@@ -4,7 +4,7 @@ A set of notebooks inspired by the book [Python Data Science Handbook](https://j
 1. tips and tricks
 2. numpy
 3. pandas
-4. seaborn
+4. plot
 5. scikit-learn
 
 Additional notebooks:
