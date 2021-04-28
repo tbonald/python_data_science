@@ -5,7 +5,7 @@ A set of notebooks inspired by the book [Python Data Science Handbook](https://j
 2. numpy
 3. pandas
 4. plot
-5. scikit-learn (coming soon)
+5. scikit-learn
 
 Additional notebooks:
 * a simple performance test of **numpy vs pandas**
